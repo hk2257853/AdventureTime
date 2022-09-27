@@ -1,0 +1,2 @@
+AssetPacks/** filter=lfs diff=lfs merge=lfs -text
+Stylized_Forest/** filter=lfs diff=lfs merge=lfs -text
